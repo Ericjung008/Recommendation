@@ -8,7 +8,7 @@ E-commerce companies are looking to generate incremental sales by implementing a
 The objective of this project is to recommend similar products to customers.
 
 ## Metric 
-Cosine similarity was the metric used for this project. The metric measures how similar text data are irrespective of their size. The formula is shown below:
+Cosine similarity was the metric used for this project. The metric measures how similar text data are irrespective of their size. The formula is shown below:<br>
 <img width="215" alt="Screen Shot 2020-10-22 at 9 07 29 PM" src="https://user-images.githubusercontent.com/51253177/96955661-f86fbb80-14aa-11eb-8b61-b4a3dbff17dd.png">
 
 ## Approach
