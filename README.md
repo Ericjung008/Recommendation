@@ -31,7 +31,7 @@ Programming Language: Python 3.7.4<br>
 Libraries: Numpy, Pandas, Sqlite3, Pickle, Re, Autocorrect, NLTK, Scikit-learn <br>
 
 ## Project Files
-[README](https://github.com/Ericjung008/Customer-Segmentation/blob/master/README.md)<br>
+[README](https://github.com/Ericjung008/Recommendation/blob/main/README.md)<br>
 [Project - SQL](https://github.com/Ericjung008/Recommendation/blob/main/Recommendation%20-%20SQL.ipynb)<br>
 [Project - Cleaning & Analysis](https://github.com/Ericjung008/Recommendation/blob/main/Recommendation%20-%20Cleaning%20%26%20Analysis.ipynb)<br>
 [Project - Cosine Similarity](https://github.com/Ericjung008/Recommendation/blob/main/Recommendation%20-%20Cosine%20Similarity.ipynb)<br>
